@@ -1,5 +1,6 @@
 ## 🏡 Real Estate Price Prediction
 Overview
+![Home Price Prediction UI](images/home_price_prediction.png)
 This project is a Real Estate Price Prediction Website that allows users to estimate home prices based on area, BHK, bathrooms, and location. The model is trained using Bangalore home prices dataset from Kaggle and is deployed via a Flask server. The website is built with HTML, CSS, and JavaScript, which interacts with the Flask API to fetch predicted prices.
 
 📌 Features
